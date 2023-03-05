@@ -1,2 +1,2 @@
 # Data-structures
-Data Structures and Algorithms class
+All of the projects from my Data Structures and Algorithms class
